@@ -181,5 +181,5 @@ vis
 dinov3
 depth_anything_v2
 selfocc
-model/ops/diff-gaussian-rasterization/
-model/ops/pointops/
+# model/ops/diff-gaussian-rasterization/
+# model/ops/pointops/
